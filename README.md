@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christelle01 (Nanimpo LARE)
 - 👀 I’m interested in web and mobile application development.
-- 🌱 I’m a django developper.
+- 🌱 I’m a django developer.
 - 💞️ I’m looking to collaborate on any project that will help me learn and develop my skills.
 - 📫 How to reach me https://www.linkedin.com/in/nanimpo-christelle-lare-267412180/
 
